@@ -21,8 +21,7 @@ Um reprodutor de músicas básico para praticar Javascript. O projeto cobre conc
 ### Fucionalidades do Projeto
 
 - [x] Responsivo
-- [ ] Reprodução, pausa, próximo, anterior e aleatório
-- [ ] Dark e Light mode
+- [x] Reprodução, pausa, próximo, anterior e aleatório
 
 ### Autor
 
